@@ -1,0 +1,9 @@
+{
+  "name": "demicube/framework-pack",
+  "type": "demicube-pack",
+  "license": "MIT",
+  "description": "An initial pack for the DemiCube Framework",
+  "require": {
+    "php": "^7.2"
+  }
+}
